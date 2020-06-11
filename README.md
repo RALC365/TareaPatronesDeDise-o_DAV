@@ -1,7 +1,7 @@
 Tarea#2 Patrones de Diseño Desarrollo Aplicaciones de Vanguardia
 
 Para ejecutar:
-java -jar "tarea2DAV.java"
+java -cp  Tarea_2_DAV.jar Tarea_2_DAV.Main
 
 Patrones de diseños:
 Singleton
